@@ -16,12 +16,12 @@ Uma aplicação web moderna para gestão de finanças pessoais, desenvolvida com
 
 ##  Features
 
-- 📊 **Dashboard Intuitivo** - Visualize suas finanças em um só lugar
-- 💳 **Gerenciamento de Contas** - Controle múltiplas contas bancárias
-- 📝 **Registro de Transações** - Adicione entradas e saídas com categorias
-- 💹 **Planejamento Financeiro** - Defina metas e acompanhe seu orçamento
-- 📈 **Extrato Detalhado** - Visualize todas suas transações com filtros
-- 📄 **Exportar em PDF** - Gere relatórios de extratos
+-  **Dashboard Intuitivo** - Visualize suas finanças em um só lugar
+-  **Gerenciamento de Contas** - Controle múltiplas contas bancárias
+-  **Registro de Transações** - Adicione entradas e saídas com categorias
+-  **Planejamento Financeiro** - Defina metas e acompanhe seu orçamento
+-  **Extrato Detalhado** - Visualize todas suas transações com filtros
+-  **Exportar em PDF** - Gere relatórios de extratos
 
 ---
 
