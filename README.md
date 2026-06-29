@@ -7,7 +7,7 @@
 [![Django](https://img.shields.io/badge/Django-4.2.5-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-Uma aplicação web moderna para gestão de finanças pessoais, desenvolvida com Django e Bootstrap.
+Uma aplicação web moderna para gestão de finanças pessoais, desenvolvida com Django. https://bianossauro.pythonanywhere.com/
 
 [Features](#-features) • [Instalação](#-instalação) • [Como Usar](#-como-usar) • [Rotas](#-rotas) • [Tecnologias](#-tecnologias)
 
